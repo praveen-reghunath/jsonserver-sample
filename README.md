@@ -1,4 +1,4 @@
-# jsonserver-sample
+# Json Server - sample
 
 Implementing a smple REST API end point using ``json-server`` is really simple.
 
